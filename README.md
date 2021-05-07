@@ -1,4 +1,4 @@
-# Умные часы с функциями фитнес-трекера <br/><br/> Smartwatch with fitness tracker functions
+# Умные часы с функциями фитнес-трекера / Smartwatch with fitness tracker functions
 <img src="/imgs/im6.png" width="800"/>
 
 *01.01.2016 - 30.07.2017*  [![Generic badge](https://img.shields.io/badge/Status-Closed-red.svg)](https://shields.io/)<br/>
