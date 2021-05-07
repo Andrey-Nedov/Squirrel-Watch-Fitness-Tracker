@@ -25,7 +25,7 @@
 
 В программе SprintLayout была смоделирована разводка основной платы, далее лазерно-утюжным методом переведена на текстолит, который потом поехал травиться в хлорид-железа.
 
-<img src="/imgs/im8.jpg" width="600"/>
+<img src="/imgs/im8.png" width="600"/>
 <img src="/imgs/im9.jpg" width="600"/>
 <img src="/imgs/im10.jpg" width="600"/>
 <img src="/imgs/im11.jpg" width="600"/>
