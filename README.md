@@ -50,8 +50,8 @@
 <img src="/imgs/im5.jpg" width="300"/>
 </p>
 
-
-
+<br/>
+<br/>
 ## Итог
 
 <img src="/imgs/os.gif" width="700"/>
