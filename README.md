@@ -52,6 +52,7 @@
 
 <br/>
 <br/>
+
 ## Итог
 
 <img src="/imgs/os.gif" width="700"/>
