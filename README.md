@@ -25,19 +25,19 @@
 
 В программе SprintLayout была смоделирована разводка основной платы, далее лазерно-утюжным методом переведена на текстолит, который потом поехал травиться в хлорид-железа.
 
-<img src="/imgs/im8.png" width="600"/>
-<img src="/imgs/im9.png" width="600"/>
-<img src="/imgs/im10.png" width="600"/>
-<img src="/imgs/im11.png" width="600"/>
-<img src="/imgs/im12.png" width="600"/>
+<img src="/imgs/im8.jpg" width="600"/>
+<img src="/imgs/im9.jpg" width="600"/>
+<img src="/imgs/im10.jpg" width="600"/>
+<img src="/imgs/im11.jpg" width="600"/>
+<img src="/imgs/im12.jpg" width="600"/>
 
 Далее на плату напаивались SMD-компоненты.
 
-<img src="/imgs/im13.png" width="600"/>
+<img src="/imgs/im13.jpg" width="600"/>
 
 *Результат*
 
-<img src="/imgs/im14.png" width="600"/>
+<img src="/imgs/im14.jpg" width="600"/>
 
 ### Приложение
 
