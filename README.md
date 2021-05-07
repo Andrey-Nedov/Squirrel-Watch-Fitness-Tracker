@@ -43,11 +43,11 @@
 
 Приложеине написано при помощи фреймворка Cordova с использованием плагинов для работы с Bluetooth- и GPS-модулями, а так же доступа ко входящим звонками и СМС-уведомлениям.
 <p>
-<img src="/imgs/im1.jpg" width="300"/>
-<img src="/imgs/im2.jpg" width="300"/>
-<img src="/imgs/im3.jpg" width="300"/>
-<img src="/imgs/im4.jpg" width="300"/>
-<img src="/imgs/im5.jpg" width="300"/>
+<img src="/imgs/im1.jpg" width="150"/>
+<img src="/imgs/im2.jpg" width="150"/>
+<img src="/imgs/im3.jpg" width="150"/>
+<img src="/imgs/im4.jpg" width="150"/>
+<img src="/imgs/im5.jpg" width="150"/>
 </p>
 
 <br/>
