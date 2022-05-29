@@ -5,7 +5,7 @@
 
 *Команда/Team*
 1. [Андрей Недов](https://github.com/Andrey-Nedov-is-a-human) (16 y.o. hardware, software, manager)
-2. Егор Василенко (15 y.o. mobile programmer)
+2. Егор Василенко (15 y.o. mobile app programmer)
 3. Михаил Онегин (15 y.o. 3D-designer)
 <br/>
 
