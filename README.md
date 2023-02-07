@@ -2,7 +2,7 @@
 <img src="/imgs/im6.png" width="800"/>
 
 *01.01.2016 - 30.07.2017*  [![Generic badge](https://img.shields.io/badge/Status-Closed-red.svg)](https://shields.io/)<br/>
-
+ 
 *Team*
 1. [Andrey Nedov](https://github.com/Andrey-Nedov-is-a-human) (16 y.o. hardware, software, manager)
 2. Egor Vasilenko (15 y.o. mobile app programmer)
